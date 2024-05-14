@@ -1,0 +1,11 @@
+﻿int[] array = new int [5];
+array [0] = 5;
+array [1] = 7;
+array [2] = 5;
+array [3] = 4;
+array [4] = 3;
+System.Console.WriteLine(array [0]);
+System.Console.WriteLine(array [1]);
+System.Console.WriteLine(array [2]);
+System.Console.WriteLine(array [3]);
+System.Console.WriteLine(array [4]);
